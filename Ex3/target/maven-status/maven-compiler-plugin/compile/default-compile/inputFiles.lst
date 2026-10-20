@@ -1,0 +1,10 @@
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\dto\PageResponse.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\config\DataInitializer.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\service\CourseService.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\CourseManagementApplication.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\dto\CourseResponse.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\dto\ApiResponse.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\controller\CourseController.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\entity\Course.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\enums\CourseStatus.java
+M:\JAVA_BACKEND\BTVN_moi\SS05\Ex3\src\main\java\com\example\coursemanagement\repository\CourseRepository.java
